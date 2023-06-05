@@ -17,6 +17,9 @@
         @inertiaHead
     </head>
     <body class="font-sans antialiased">
+        <div class="flex justify-center">
+            <x-example-component />
+        </div>
         @inertia
     </body>
 </html>
